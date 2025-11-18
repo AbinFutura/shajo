@@ -3,3 +3,5 @@ Kochi
 Trivandrum
 Alappuzha
 Kollam
+kozhikod
+kannur
